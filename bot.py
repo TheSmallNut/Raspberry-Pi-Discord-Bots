@@ -54,7 +54,7 @@ async def on_message(ctx):
     elif ctx.author.id == SHAANID:
         arrayOfQuotes = [
             "hahahahhahahahhahahahhahagba",
-            "shaan you're so sexy",
+            "shaan you're so sexy aaah..hahaha",
             "this is not pogchamp",
         ]
         randomNum = randrange(10)
